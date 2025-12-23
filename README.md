@@ -21,18 +21,13 @@ This tool was developed to understand the underlying mechanics of reverse shells
 
 2.  **Run the Server (Attacker):**
     ```bash
-    python3 server.py
+    python3 c2_server.py
     ```
 
 3.  **Run the Client (Target):**
     ```bash
-    python3 client.py
+    python3 c2_client.py
     ```
-
-## 🚀 Future Roadmap
-* [ ] Add Traffic Encryption (SSL/TLS)
-* [ ] Implement File Transfer (Upload/Download)
-* [ ] Multi-client handling (Botnet simulation)
 
 ## 👤 Author
 Sreevishnu V - Aspiring Web Application Penetration Tester
